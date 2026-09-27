@@ -1,2 +1,2 @@
-# Reproduction-of-CMA-ES-Tutorial-Paper
-Reproduction code of the CMA-ES algorithm
+# A simple reproduction code of the CMA-ES algorithm
+
